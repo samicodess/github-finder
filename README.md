@@ -1,9 +1,11 @@
 <div align='center'>
 
-<img src=https://github.com/samicodess/github-finder/assets/97249274/8f820a56-64df-4def-a02a-4cf53f8dba21 alt="logo" width= height= />
 
 <h1>GitHub User Finder</h1>
 <p>Find you & your friend github easily </p>
+
+
+
 
 <h4> <a href=https://github-finder-tawny-five.vercel.app/>View Demo</a> <span> · </span> <a href="https://github.com/samicodess/github-finder/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/samicodess/github-finder/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/samicodess/github-finder/issues"> Request Feature </a> </h4>
 
