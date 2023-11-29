@@ -43,8 +43,3 @@ git clone https://github.com/samicodess/github-finder
 ```
 
 
-## :handshake: Contact
-
-Sami - -
-
-Project Link: [https://github.com/samicodess/github-finder](https://github.com/samicodess/github-finder)
